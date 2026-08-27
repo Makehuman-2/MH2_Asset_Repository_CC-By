@@ -1,0 +1,54 @@
+Makehuman 2 CC_by 4.0 2026
+
+Creative Commons Attribution 4.0 International License (CC-BY 4.0)Project / Asset Framework: MakeHuman 2 Asset Repository
+Publication Year: 2026
+License Tier: CC-BY 4.0 International
+
+🌟 Summary of Rights Granted:
+You are completely free to download, copy, distribute, modify, and build upon this asset package for any purpose, including commercial use, 
+under the following conditions:
+
+Attribution Required: You must give appropriate credit to the original author, provide a link to this license, and indicate if any changes were 
+made to the original files. You may do so in any reasonable manner, but not in any way that suggests the author endorses you or your use.
+
+No Additional Restrictions: You may not apply legal terms or technological measures (such as restrictive DRM) that legally restrict others from doing anything this license permits.
+
+📋 Attribution Guidelines & TemplatesBelow is a baseline layout framework of how to properly attribute these files in text, embedded layout 
+metadata code, JSON manifests, or final project credit blocks:
+🔹 Inside Text Credits or Readme Documents
+
+[Asset Name] by [The Artist Name/Handle] (2026) is licensed under 
+Creative Commons Attribution 4.0 International (CC-BY 4.0).
+Source Repository Link: [makehumancommunity.org]
+
+🔹 Inside .mhclo, .mhmat, or .target Code Comment Blocks
+
+# ========================================================
+#  Asset Information Block
+# ========================================================
+# Name: [Asset Name]
+# Author: [The Artist Name/Handle] 2026
+# License: Creative Commons Attribution 4.0 International (CC-BY 4.0)
+# Source: [makehumancommunity.org]
+# ========================================================
+
+🔹 Inside Custom JSON Asset Manifest Databasesjson{
+    "asset_metadata": {
+        "title": "[Asset Name]",
+        "author": "[Your Name/Handle]",
+        "date": "2026",
+        "license_tier": "Creative Commons Attribution 4.0 International (CC-BY 4.0)",
+        "source_url": "[The Repository Link]"
+    }
+}
+
+⚠️ Disclaimer of Warranty:
+
+Unless otherwise mutually agreed to by the parties in writing, the Author offers the Work as-is and makes no representations or warranties of 
+any kind concerning the Work, express, implied, statutory or otherwise, including, without limitation, warranties of title, merchantability, 
+fitness for a particular purpose, or the absence of latent or other defects, accuracy, or the presence of absence of errors, whether or not discoverable.
+
+
+
+
+
