@@ -14,3 +14,4 @@ This will continue to be added to from past present and future- at the pace I pe
 - Elvs_Lara_croft_set_cc-by.zip 14.5 mb A full set of fan art assets to create the Lara Croft Character by Elvaerwyn.(bonus boots and leg wraps)
 - Elvs_Goddess_Dress_Set_cc-by.zip 72.7 mb A large pack of goddess stylized dresses by Elvaerwyn.
 - Elvs_dirty_maid_kit_cc-by.zip 9.22 mb A full set of fetish maid clothing for makehuman female models by Elvaerwyn.(bonus leg ribbons)
+- Grins_Vader_pk_cc-by.zip 6.14 mb A full set of fan art Darth Vader Costume by Grinsgold/Agpl on some cc-by most.
