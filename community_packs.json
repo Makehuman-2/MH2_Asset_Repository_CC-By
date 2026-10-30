@@ -3,54 +3,63 @@
         "PD_Wonder_Woman_Kit_cc-by.zip": {
             "descr": "Punk Duck: Wonder Woman Costume Kit",
             "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/PD_Wonder_Woman_Kit_cc-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/ww_kit_demo.png",
             "base": "*",
             "size": 61.2
         },
         "PD_Poison_Ivy_cc-by.zip": {
             "descr": "Punk Duck: Poison Ivy Character Pack",
             "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/PD_Poison_Ivy_cc-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/pduck_ivy_demo.png",
             "base": "*",
             "size": 20.9
         },
         "PD_Ava_ex_machina_cc-by.zip": {
             "descr": "Punk Duck: Ava Ex Machina Android Mesh",
             "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/PD_Ava_ex_machina_cc-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/ava_machina_demo.png",
             "base": "*",
             "size": 12.9
         },
         "Mindfront_dress_pk1_cc-by.zip": {
             "descr": "Mindfront: Mega Dress Collection Pack 1",
             "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/Mindfront_dress_pk1_cc-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/mind_dress_demo.png",
             "base": "*",
             "size": 311.0
         },
         "Elvs_zombiekiller_set_cc-by.zip": {
             "descr": "Elvaerwyn: Zombie Killer Outfit Wardrobe",
             "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/Elvs_zombiekiller_set_cc-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/elvs_zombie_k_demo.png",
             "base": "*",
             "size": 26.4
         },
         "Elvs_Lara_croft_set_cc-by.zip": {
             "descr": "Elvaerwyn: Tomb Raider Lara Croft Set (With Wraps)",
             "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/Elvs_Lara_croft_set_cc-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/Elvs_lara_demo.png",
             "base": "*",
             "size": 14.5
         },
         "Elvs_Goddess_Dress_Set_cc-by.zip": {
             "descr": "Elvaerwyn: Goddess Stylized Flowing Gowns",
             "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/Elvs_Goddess_Dress_Set_cc-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/goddess_dress_demo.png",
             "base": "*",
             "size": 72.7
         },
         "Elvs_dirty_maid_kit_cc-by.zip": {
             "descr": "Elvaerwyn: Classic Maid Attire & Leg Ribbons",
             "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/Elvs_dirty_maid_kit_cc-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/elvs_d_maid_set_demo.png",
             "base": "*",
             "size": 9.22
         },
         "Grins_Vader_pk_cc-by.zip": {
             "descr": "Grinsgold: Darth Vader Complete Suit Mesh",
             "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/Grins_Vader_pk_cc-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/grins_vader_demo.png",
             "base": "*",
             "size": 6.14
         }
