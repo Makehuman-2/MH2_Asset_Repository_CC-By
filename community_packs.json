@@ -57,11 +57,18 @@
             "size": 9.22
         },
         "Grins_Vader_pk_cc-by.zip": {
-            "descr": "Grinsgold: Darth Vader Complete Suit Mesh",
+            "descr": "Grinsegold: Darth Vader Complete Suit Mesh old version",
             "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/Grins_Vader_pk_cc-by.zip",
             "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/grins_vader_demo.png",
             "base": "*",
             "size": 6.14
+        },
+        "hm08-Grins_Vader_pk_cc-by.zip": {
+            "descr": "Grinsegold: Darth Vader Complete Suit Mesh",
+            "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/hm08-Grins_Vader_pk_cc-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/grins_vader_demo.png",
+            "base": "hm08",
+            "size": 6.19
         }
     }
 }
