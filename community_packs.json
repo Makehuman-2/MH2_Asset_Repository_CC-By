@@ -64,11 +64,32 @@
             "size": 6.14
         },
         "hm08-Grins_Vader_pk_cc-by.zip": {
-            "descr": "Grinsegold: Darth Vader Complete Suit Mesh",
+            "descr": "Grinsegold: Darth Vader Complete Suit Mesh Recolor PBR",
             "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/hm08-Grins_Vader_pk_cc-by.zip",
             "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/grins_vader_demo.png",
             "base": "hm08",
             "size": 6.19
+        },
+        "hm08-PD_Wonder_Woman_Kit_cc-by.zip": {
+            "descr": "Punk Duck: Wonder Woman Fan Art Costume Kit Recolor PBR",
+            "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/hm08-PD_Wonder_Woman_Kit_cc-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/ww_kit_demo.png",
+            "base": "hm08",
+            "size": 67.0
+        },
+        "hm08-PD_Poison_Ivy_cc-by.zip": {
+            "descr": "Punk Duck: Poison Ivy Fan Art Costume Kit Recolor PBR",
+            "url": "MH2_Asset_Repository_CC-By/releases/download/CC-by/hm08-PD_Poison_Ivy_cc-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/pduck_ivy_demo.png",
+            "base": "hm08",
+            "size": 24.1
+        },
+        "hm08-PD_Ava_ex_machina_cc-by.zip": {
+            "descr": "Punk Duck: Ava Ex Machina Fan Art Costume Kit Recolor PBR",
+            "url": "MH2_Asset_Repository_CC-By/releases/download/CC-by/hm08-PD_Ava_ex_machina_cc-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/ava_machina_demo.png",
+            "base": "hm08",
+            "size": 13.3
         }
     }
 }
