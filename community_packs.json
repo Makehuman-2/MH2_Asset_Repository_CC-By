@@ -90,6 +90,13 @@
             "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/ava_machina_demo.png",
             "base": "hm08",
             "size": 13.3
+        },
+        "Elvs_Disco_Fashion_pk_CC-by.zip": {
+            "descr": "Elvaerwyns Stylized Fashion pack of Disco Costumes",
+            "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/Elvs_Disco_Fashion_pk_CC-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/elvs_disco_demo.png",
+            "base": "hm08",
+            "size": 43.0
         }
     }
 }
