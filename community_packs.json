@@ -1,26 +1,5 @@
 {
     "packs": {
-        "PD_Wonder_Woman_Kit_cc-by.zip": {
-            "descr": "Punk Duck: Wonder Woman Costume Kit",
-            "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/PD_Wonder_Woman_Kit_cc-by.zip",
-            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/ww_kit_demo.png",
-            "base": "*",
-            "size": 61.2
-        },
-        "PD_Poison_Ivy_cc-by.zip": {
-            "descr": "Punk Duck: Poison Ivy Character Pack",
-            "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/PD_Poison_Ivy_cc-by.zip",
-            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/pduck_ivy_demo.png",
-            "base": "*",
-            "size": 20.9
-        },
-        "PD_Ava_ex_machina_cc-by.zip": {
-            "descr": "Punk Duck: Ava Ex Machina Android Mesh",
-            "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/PD_Ava_ex_machina_cc-by.zip",
-            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/ava_machina_demo.png",
-            "base": "*",
-            "size": 12.9
-        },
         "Mindfront_dress_pk1_cc-by.zip": {
             "descr": "Mindfront: Mega Dress Collection Pack 1",
             "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/Mindfront_dress_pk1_cc-by.zip",
@@ -56,14 +35,7 @@
             "base": "*",
             "size": 9.22
         },
-        "Grins_Vader_pk_cc-by.zip": {
-            "descr": "Grinsegold: Darth Vader Complete Suit Mesh old version",
-            "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/Grins_Vader_pk_cc-by.zip",
-            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/grins_vader_demo.png",
-            "base": "*",
-            "size": 6.14
-        },
-        "hm08-Grins_Vader_pk_cc-by.zip": {
+       "hm08-Grins_Vader_pk_cc-by.zip": {
             "descr": "Grinsegold: Darth Vader Complete Suit Mesh Recolor PBR",
             "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/hm08-Grins_Vader_pk_cc-by.zip",
             "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/grins_vader_demo.png",
