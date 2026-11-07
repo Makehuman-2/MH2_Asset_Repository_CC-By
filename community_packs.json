@@ -13,7 +13,7 @@
             "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/Elvs_zombiekiller_set_cc-by.zip",
             "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/elvs_zombie_k_demo.png",
             "base": "hm08",
-            "type": ["clothes,"hair"],
+            "type": ["clothes","hair"],
             "size": 26.4
         },
         "Elvs_Lara_croft_set_cc-by.zip": {
@@ -21,7 +21,7 @@
             "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/Elvs_Lara_croft_set_cc-by.zip",
             "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/Elvs_lara_demo.png",
             "base": "hm08",
-            "type": ["clothes,"hair"],
+            "type": ["clothes","hair"],
             "size": 14.5
         },
         "Elvs_Goddess_Dress_Set_cc-by.zip": {
