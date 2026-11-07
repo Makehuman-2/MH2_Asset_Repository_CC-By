@@ -118,6 +118,34 @@
             "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/Elvs_lara_demo.png",
             "base": "hm08",
             "size": 14.9
+        },
+        "hm08-Elvs_zombiekiller_set_cc-by.zip": {
+            "descr": "Elvaerwyn: Zombie Killer Outfit Wardrobe updated to PBR materials",
+            "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/hm08-Elvs_zombiekiller_set_cc-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/elvs_zombie_k_demo.png",
+            "base": "hm08",
+            "size": 26.9
+        },
+        "Medical_pack_cc-by.zip": {
+            "descr": "A Collection of Medical clothing and equipment for makehuman models",
+            "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/Medical_pack_cc-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/medical_demo.png",
+            "base": "hm08",
+            "size": 59.5
+        },
+        "PD_Tennis_Set_CC-by.zip": {
+            "descr": "A set of tennis equipment for makehuman female models",
+            "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/PD_Tennis_Set_CC-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/pd_tennis_demo.png",
+            "base": "hm08",
+            "size": 14.3
+        },
+        "PD_train_conductor_set_CC-by.zip": {
+            "descr": "A set of train conductor equipment for makehuman male models",
+            "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/PD_train_conductor_set_CC-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/train_cond_demo.png",
+            "base": "hm08",
+            "size": 16.6
         }
     }
 }
