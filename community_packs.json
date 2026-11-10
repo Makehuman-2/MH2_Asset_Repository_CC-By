@@ -151,6 +151,30 @@
             "base": "hm08",
             "type": "clothes",
             "size": 11.8
+        },
+        "hm08-PD_Triathlon_Set_CC-by.zip": {
+            "descr": "A full set of Triathalon equipment for running/cycling and swimming improved with PBR Textures by PunkDuck",
+            "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/hm08-PD_Triathlon_Set_CC-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/triathlete_demo.png",
+            "base": "hm08",
+            "type": "clothes",
+            "size": 17.3
+        },
+        "hm08-PD_train_conductor_set_CC-by.zip": {
+            "descr": "A set of train conductor equipment for makehuman male models upgraded to PBR Textures",
+            "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/hm08-PD_train_conductor_set_CC-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/train_cond_demo.png",
+            "base": "hm08",
+            "type": "clothes",
+            "size": 21.0
+        },
+        "hm08-PD_Tennis_Set_CC-by.zip": {
+            "descr": "A set of tennis equipment for makehuman female models upgraded to modern PBR materials",
+            "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/hm08-PD_Tennis_Set_CC-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/pd_tennis_demo.png",
+            "base": "hm08",
+            "type": "clothes",
+            "size": 16.3
         }
     }
 }
