@@ -19,3 +19,4 @@ This will continue to be added to from past present and future- at the pace I pe
 - Elvs_dirty_maid_kit_cc-by.zip 9.22 mb A full set of fetish maid clothing for makehuman female models by Elvaerwyn.(bonus leg ribbons)
 - Elvs_Disco_Fashion_pk_CC-by.zip 43 mb. A full selection of clothes for disco dancing genre by Elvaerwyn. 
 - Grins_Vader_pk_cc-by.zip 6.14 mb A full set of fan art Darth Vader Costume by Grinsgold/Agpl on some cc-by most.
+- Medical_pack_cc-by.zip 60 mb. A large collection of medical equipment from the community for use on makehuman models. CC-by.
