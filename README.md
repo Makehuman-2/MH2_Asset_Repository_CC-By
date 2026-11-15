@@ -5,7 +5,7 @@ Please note that all asset packs in the zip downloads that are listed as legacy 
 
 This will continue to be added to from past present and future- at the pace I and punk personally have time! 
 
-- # In Release "The Archieves CC-By V 1.0"
+- # In Release "The Archieves CC-By V 1.0" [CC-By Archives](https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/releases/tag/CC-by)
 # The Contents Thus far:
 
 - PD_Wonder_Woman_Kit_cc-by.zip 61.2 mb A full set of fan art assets to create the wonder woman character by Punk Duck.
