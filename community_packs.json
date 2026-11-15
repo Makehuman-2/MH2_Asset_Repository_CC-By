@@ -184,7 +184,7 @@
             "type": "clothes",
             "size": 60.0
         },
-        "hm08-Elvs_grump_kit_CC-by.zip ": {
+        "hm08-Elvs_grump_kit_CC-by.zip": {
             "descr": "Elvs Ronald Grump kit, not including targets or clothing-readme has a list of all that is needed.",
             "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/hm08-Elvs_grump_kit_CC-by.zip",
             "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/gits_grump_demo.png",
@@ -197,7 +197,7 @@
             "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/hm08-Elvs_Disco_Fashion_pk_CC-by.zip",
             "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/elvs_disco_demo.png",
             "base": "hm08",
-            "type": "clothes",,
+            "type": "clothes",
             "size": 43.5
         }
     }
