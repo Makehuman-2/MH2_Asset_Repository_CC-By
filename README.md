@@ -1,7 +1,9 @@
 # MH2_Asset_Repository_CC-By
 A repository of Makehuman Community Assets. This shall serve as a library of asset packs in zip form for download. All assets in these packs are as listed CC-by attribution.
 
-This will continue to be added to from past present and future- at the pace I personally have time! 
+Please note that all asset packs in the zip downloads that are listed as legacy are original and unaltered. All packets listed as HM08 are updated to PBR shaders, checked for errors, and cleaned of broken and missing content, this work is ongoing.
+
+This will continue to be added to from past present and future- at the pace I and punk personally have time! 
 
 - # In Release "The Archieves CC-By V 1.0"
 # The Contents Thus far:
