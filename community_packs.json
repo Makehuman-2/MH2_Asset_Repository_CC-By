@@ -189,7 +189,7 @@
             "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/hm08-Elvs_grump_kit_CC-by.zip",
             "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/gits_grump_demo.png",
             "base": "hm08",
-            "type": ["clothes","hair"],
+            "type": ["clothes","hair","skins"],
             "size": 24.9
         },
         "hm08-Elvs_Disco_Fashion_pk_CC-by.zip": {
@@ -199,6 +199,30 @@
             "base": "hm08",
             "type": "clothes",
             "size": 43.5
+        },
+        "legacy-jewellery_CC_by.zip": {
+            "descr": "A collection of legacy CC-by Jewellery",
+            "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/legacy-jewellery_CC_by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/ccby_jewellery_demo.png",
+            "base": "hm08",
+            "type": "clothes",
+            "size": 33.8
+        },
+        "legacy-PD_Horse_Riding_set_CC-by.zip": {
+            "descr": "Punkducks legacy horseback riding kit for female models",
+            "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/legacy-PD_Horse_Riding_set_CC-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/riding_set_demo.png",
+            "base": "hm08",
+            "type": "clothes",
+            "size": 7.03
+        },
+        "legacy-hair_pack1_CC-by.zip": {
+            "descr": "A collection of legacy hair CC-by",
+            "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/legacy-hair_pack1_CC-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/cc_by_hair_demo.png",
+            "base": "hm08",
+            "type": "hair",
+            "size": 238.0
         }
     }
 }
