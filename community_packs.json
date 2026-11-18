@@ -184,9 +184,9 @@
             "type": "clothes",
             "size": 60.0
         },
-        "hm08-Elvs_grump_kit_CC-by.zip": {
+        "legacy-Elvs_grump_kit_CC-by.zip": {
             "descr": "Elvs Ronald Grump kit, not including targets or clothing-readme has a list of all that is needed.",
-            "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/hm08-Elvs_grump_kit_CC-by.zip",
+            "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/legacy-Elvs_grump_kit_CC-by.zip",
             "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/gits_grump_demo.png",
             "base": "hm08",
             "type": ["clothes","hair","skins"],
