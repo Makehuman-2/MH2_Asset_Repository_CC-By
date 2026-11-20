@@ -23,4 +23,8 @@ This will continue to be added to from past present and future- at the pace I an
 - Grins_Vader_pk_cc-by.zip 6.14 mb A full set of fan art Darth Vader Costume by Grinsgold/Agpl on some cc-by most.
 - Medical_pack_cc-by.zip 60 mb. A large collection of medical equipment from the community for use on makehuman models. CC-by.
 - hm08-Elvs_grump_kit_CC-by.zip Elvs Grump kit. CC-by Elvaerwyn.
+- legacy-PD_Horse_Riding_set_CC-by.zip. CC-by Punkduck. A small set of equipment for riding horses female models only.
+- legacy-hair_pack1_CC-by.zip. A large collection of hair from the community.
+- Tigra Set by Culturelibre. CC-by.
+- legacy-jewellery_CC_by.zip. A collection of jewellery from the community for both genders.
 - 
