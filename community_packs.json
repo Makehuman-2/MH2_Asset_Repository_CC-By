@@ -223,6 +223,22 @@
             "base": "hm08",
             "type": "hair",
             "size": 238.0
+        },
+        "legacy-Cultures_Tigra_kit_CC-by.zip": {
+            "descr": "A Tigra Fan Art Kit by Culturelibre-CC-by",
+            "url": "MH2_Asset_Repository_CC-By/releases/download/CC-by/legacy-Cultures_Tigra_kit_CC-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/culture_tigra_demo.png",
+            "base": "hm08",
+            "type": ["clothes","hair","skins"],
+            "size": 2.31
+        },
+        "legacy-Realistic_skins_CC-by.zip": {
+            "descr": "A Large collection of CC-by Skins by the community-Realist Human PK1",
+            "url": "MH2_Asset_Repository_CC-By/releases/download/CC-by/legacy-Realistic_skins_CC-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/realistic_ccby_skins_demo.png",
+            "base": "hm08",
+            "type": "skins",
+            "size": 119.0 
         }
     }
 }
