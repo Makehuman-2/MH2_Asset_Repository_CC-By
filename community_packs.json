@@ -247,6 +247,22 @@
             "base": "hm08",
             "type": "target",
             "size": 3.01
+        },
+        "hm08-hair_pack1_CC-by.zip": {
+            "descr": "A collection of legacy hair CC-by updated to PBR Materials",
+            "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/hm08-hair_pack1_CC-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/cc_by_hair_demo.png",
+            "base": "hm08",
+            "type": "hair",
+            "size": 222.0
+        },
+        "legacy_CC-by_footwear_pk1.zip": {
+            "descr": "A collection of legacy footwear for makehuman software family models from the community",
+            "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/legacy_CC-by_footwear_pk1.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/cc-by_shoe_pk_demo.png",
+            "base": "hm08",
+            "type": "clothes",
+            "size": 112.0
         }
     }
 }
