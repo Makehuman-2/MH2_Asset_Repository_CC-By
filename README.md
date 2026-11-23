@@ -27,4 +27,5 @@ This will continue to be added to from past present and future- at the pace I an
 - legacy-hair_pack1_CC-by.zip. A large collection of hair from the community.
 - Tigra Set by Culturelibre. CC-by.
 - legacy-jewellery_CC_by.zip. A collection of jewellery from the community for both genders.
-- 
+- hm08 hair pack1.  A large collection of hair from the community updated to pbr and checked for errors.
+- legacy footwear pack 1. A large collection of shoes from the community.
