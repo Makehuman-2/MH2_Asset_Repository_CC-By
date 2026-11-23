@@ -211,7 +211,7 @@
         "legacy-PD_Horse_Riding_set_CC-by.zip": {
             "descr": "Punkducks legacy horseback riding kit for female models",
             "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/legacy-PD_Horse_Riding_set_CC-by.zip",
-            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/ccby_targets_demo.png",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/riding_set_demo.png",
             "base": "hm08",
             "type": "targets",
             "size": 7.03
@@ -243,7 +243,7 @@
         "hm08-cc_by_targets.zip": {
             "descr": "A Large collection of CC-by Skins by the community-Realist Human PK1",
             "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/hm08-cc_by_targets.zip",
-            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/realistic_ccby_skins_demo.png",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/ccby_targets_demo.png",
             "base": "hm08",
             "type": "target",
             "size": 3.01
