@@ -263,6 +263,22 @@
             "base": "hm08",
             "type": "clothes",
             "size": 112.0
+        },
+        "hm08-Realistic_skins_CC-by.zip": {
+            "descr": "A collection of realistic skins updated to PBR materials and checked for errors",
+            "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/hm08-Realistic_skins_CC-by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/realistic_ccby_skins_demo.png",
+            "base": "hm08",
+            "type": "skins",
+            "size": 197.0
+        },
+        "hm08-jewellery_CC_by.zip": {
+            "descr": "A collection of legacy Jewellery updated to PBR materials and checked for errors and broken items",
+            "url": "Makehuman-2/MH2_Asset_Repository_CC-By/releases/download/CC-by/hm08-jewellery_CC_by.zip",
+            "thumb": "https://github.com/Makehuman-2/MH2_Asset_Repository_CC-By/blob/main/Resource/ccby_jewellery_demo.png",
+            "base": "hm08",
+            "type": "clothes",
+            "size": 35.9
         }
     }
 }
